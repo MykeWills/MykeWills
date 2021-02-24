@@ -15,15 +15,15 @@ A self motivated Indie game development professional and an engaged daily develo
 * Game management, networking & marketing. 
 * Game saving, loading & transitions. 
 ### || Relevant Experience ||
-* Git Hub & Source control
-* 4 Years Experience working In Unity.
-* 4 Years Programming in C# Programming Language.
+* GitHub & source control
+* 4 Years experience working in Unity.
+* 4 Years programming in C# programming language.
 * Understanding of object orientated programming.
-* understanding of Game Optimization, garbage collection & Object Pooling.
-* Construction of game management & game systematic Classes/structs.
-* Released at least 2 solo Titles via Steam, Itch.io & GameJolt.
-* 10+ years of 2D & 3D Graphic design/modeling in Photoshop.
-* 4+ years Designing HD Video content in After Effects & Media Encoder.
+* Understanding of game optimization, garbage collection & object pooling.
+* Construction of game management & game systematic classes/structs.
+* Released at least 2 solo titles via Steam, Itch.io & GameJolt.
+* 10+ years of 2D & 3D graphic design/modeling in Photoshop.
+* 4+ years designing HD video content in After Effects & Media Encoder.
 * Efficient in Element 3D Video Copilot plugin for After Effects.
 
 ### || What's Happening ||
