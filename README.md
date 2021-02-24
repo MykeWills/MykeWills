@@ -29,17 +29,12 @@ Website: https://www.michaelwills.net/
 * Efficient in Element 3D Video Copilot plugin for After Effects.
 
 ### || What's Happening ||
-
-
-
-![image](https://i.imgur.com/Cv89a4R.gif)
 ###### Oct 2019 - Feb 2020
 **Game Title Release - Devastation Annihilate the Alien Race**
 > 5 month, 2D Game project released on Steam for PC.
 * **Game Trailer:** _https://www.youtube.com/watch?v=Zecvy9tiyiI&t=3s_
 * Steam Page: _https://store.steampowered.com/app/1227040/Devastation__Annihilate_the_Alien_Race/_
 
-![image](https://i.imgur.com/fh8V9k1.gif)
 ###### Feb 2020 - Jan 2021
 **Game Title Release - Devastation 2 - Repatriation**
 > 11 month, 3D Game project released on Steam for PC.
@@ -57,7 +52,9 @@ Website: https://www.michaelwills.net/
 1. Blender 3D modeling & rigging (learning soon)
 2. In depth explanation of the four pillars of object-oriented programming.     
 
-_**[Note: Devastation 1 & 2 are private repositories, available upon request.]**_
+_**[Note: Devastation 1 & 2 are private repositories, available upon request.]**_\
+
+![image](https://i.imgur.com/fh8V9k1.gif)
                                                                                       
 <!--
 **N163LPH03N1X/N163LPH03N1X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
