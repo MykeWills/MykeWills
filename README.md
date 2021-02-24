@@ -42,8 +42,10 @@ A self motivated Indie game development professional and an engaged daily develo
 
 ### || Personal Hobbies ||
 #### **Currently working on:**
-1. [New Project] Total age: (4 days) > _Unnamed BrickGame_
-2. [Long Term Project] Total age: (11 months) > _Treasure Quest - Curse of the black jewel_
+1. [New Project] Total age: (4 days) > _Unnamed BrickGame_ 
+ * https://github.com/N163LPH03N1X/BrickGame
+2. [Long Term Project] Total age: (11 months) > _Treasure Quest - Curse of the black jewel_ 
+ * https://github.com/N163LPH03N1X/TreasureQuest
 
 #### **Currently Learning:**
 1. Blender 3D modeling & rigging (learning soon)
