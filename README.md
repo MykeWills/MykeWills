@@ -30,14 +30,16 @@ Website: https://www.michaelwills.net/
 
 ### || What's Happening ||
 
-![image](https://i.imgur.com/fh8V9k1.gif)
 
+
+![image](https://i.imgur.com/Cv89a4R.gif)
 ###### Oct 2019 - Feb 2020
 **Game Title Release - Devastation Annihilate the Alien Race**
 > 5 month, 2D Game project released on Steam for PC.
 * **Game Trailer:** _https://www.youtube.com/watch?v=Zecvy9tiyiI&t=3s_
 * Steam Page: _https://store.steampowered.com/app/1227040/Devastation__Annihilate_the_Alien_Race/_
 
+![image](https://i.imgur.com/fh8V9k1.gif)
 ###### Feb 2020 - Jan 2021
 **Game Title Release - Devastation 2 - Repatriation**
 > 11 month, 3D Game project released on Steam for PC.
