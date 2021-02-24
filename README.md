@@ -30,7 +30,7 @@ Website: https://www.michaelwills.net/
 
 ### || What's Happening ||
 
-![image](https://i.imgur.com/LJQr9lE.gif)
+![image](https://i.imgur.com/fh8V9k1.gif)
 
 ###### Oct 2019 - Feb 2020
 **Game Title Release - Devastation Annihilate the Alien Race**
