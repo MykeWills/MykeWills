@@ -30,6 +30,8 @@ Website: https://www.michaelwills.net/
 
 ### || What's Happening ||
 
+![image](https://i.imgur.com/LJQr9lE.gif)
+
 ###### Oct 2019 - Feb 2020
 **Game Title Release - Devastation Annihilate the Alien Race**
 > 5 month, 2D Game project released on Steam for PC.
