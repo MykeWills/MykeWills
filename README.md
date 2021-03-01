@@ -50,7 +50,7 @@ Website: https://www.michaelwills.net/
 3. [Devastation - Annihilate the alien race] Total age: (5 Months)
  * Optimizing/fixing broken project/Updating to Steam.
 4. [StrictC#Game] Total age (2 Days) > _Text Based RPG_
-5. https://github.com/N163LPH03N1X/TextBasedRPG
+ * https://github.com/N163LPH03N1X/TextBasedRPG
 
 
 #### **Currently Learning:**
