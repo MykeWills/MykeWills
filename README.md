@@ -43,20 +43,23 @@ Website: https://www.michaelwills.net/
 
 ### || Personal Hobbies ||
 #### **Currently working on:**
+
+
 1. [New Project] Total age: (4 days) > _Unnamed BrickGame_ 
  * https://github.com/N163LPH03N1X/BrickGame
 2. [Long Term Project] Total age: (11 months) > _Treasure Quest - Curse of the black jewel_ 
  * https://github.com/N163LPH03N1X/TreasureQuest
-3. [Devastation - Annihilate the alien race] Total age: (5 Months)
- * Optimizing/fixing broken project/Updating to Steam.
 4. [StrictC#Game] Total age (2 Days) > _Text Based RPG_
  * https://github.com/N163LPH03N1X/TextBasedRPG
+5. [New Project] Total Age: (1 Week) > _Virvius Genocide_
+
 
 
 #### **Currently Learning:**
 1. Blender 3D modeling & rigging (learning soon)
 2. In depth explanation of the four pillars of object-oriented programming.
 3. Building a Text based RPG using only C# 
+4. Raycasts with Unity
 
 _**[Note: Devastation 1 & 2 are private repositories, available upon request.]**_\
 
