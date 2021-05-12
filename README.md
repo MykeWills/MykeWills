@@ -60,7 +60,12 @@ Website: https://www.michaelwills.net/
 1. Blender 3D modeling & rigging (learning soon)
 2. In depth explanation of the four pillars of object-oriented programming.
 3. Building a Text based RPG using only C# 
-4. Raycasts with Unity
+
+#### **Previously Learned:**
+1. Raycasts with Unity
+2. File management in C#
+3. Steam cloud & file backup
+4. How VSync affects game play & code
 
 _**[Note: Devastation 1 & 2 are private repositories, available upon request.]**_\
 
