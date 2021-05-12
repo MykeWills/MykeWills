@@ -1,7 +1,7 @@
 > "The more I deal with the work as something that is my own, as something that is personal,
 > the more successful it is." -- Marian Bantjes
 
-## I am a Development Programmer
+## I Am A Game Development Gemini Philanthropist[Gamer/Developer]
 # Michael Wills (aka. NigelPhoenix Games)
 A self motivated Indie game development professional and an engaged daily developer with interest in all aspects of game design...
 
