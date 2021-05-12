@@ -4,7 +4,7 @@
 ## I Am A Game Development Gemini Philanthropist[Gamer/Developer]
 # Michael Wills (aka. NigelPhoenix Games)
 A motivated Indie game development professional and an engaged developer in all aspects of game design.
-> Currently looking for work opportunity in game development field or opportunity teaching, motivating and learning more about games.
+> Currently looking for work opportunity in a game development field or an opportunity teaching, motivating and learning more about games.
 
 Website: https://www.michaelwills.net/
 
