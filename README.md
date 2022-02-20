@@ -19,8 +19,8 @@ Website: https://www.michaelwills.net/
 * Game saving, loading & transitions. 
 ### || Relevant Experience ||
 * GitHub & source control
-* 4 Years experience working in Unity.
-* 4 Years programming in C# programming language.
+* 5 Years experience working in Unity.
+* 5 Years programming in C# programming language.
 * Understanding of object orientated programming.
 * Understanding of game optimization, garbage collection & object pooling.
 * Construction of game management & game systematic classes/structs.
@@ -30,6 +30,12 @@ Website: https://www.michaelwills.net/
 * Efficient in Element 3D Video Copilot plugin for After Effects.
 
 ### || What's Happening ||
+###### Mar 2021 - Feb 2022
+**Just Marked 500 followers on Twitter from Virvius content**
+> 10 month, 3D Game project with a possiblility of early access.
+* **Game Preview:** _https://youtu.be/ahUsfq8m0fQ?t=24_
+* Steam Page: _N/A_
+
 ###### Oct 2019 - Feb 2020
 **Game Title Release - Devastation Annihilate the Alien Race**
 > 5 month, 2D Game project released on Steam for PC.
@@ -45,25 +51,25 @@ Website: https://www.michaelwills.net/
 ### || Personal Hobbies ||
 #### **Currently working on:**
 
-1. [New Long Term Project] Total Age: (2 months) > _Virvius Genocide_
+1. [New Long Term Project] Total Age: (~10 months) > _Virvius Genocide_
  * https://github.com/mykewills/Virvius
-2. [Long Term Project] Total age: (11 months) > _Treasure Quest - Curse of the black jewel_ 
- * https://github.com/mykewills/TreasureQuest
-3. [StrictC#Game] Total age (2 Days) > _Text Based RPG_
- * https://github.com/mykewills/TextBasedRPG
-4. [New Project] Total age: (4 days) > _Unnamed BrickGame_ 
- * https://github.com/mykewills/BrickGame
 
 #### **Currently Learning:**
-1. Blender 3D modeling & rigging (learning soon)
-2. CodeInGame Puzzles (medium)
+1. Rocket launcher loading rockets
+2. Blender 3D modeling & rigging (On hold)
 3. Building a Text based RPG using only C# (On hold)
 
 #### **Previously Learned:**
-1. Raycasts with Unity
-2. File management in C#
-3. Steam cloud & file backup
-4. How VSync affects game play & code
+1. Bump/occlusion/height texture mapping
+2. NaN propagation + broken textures
+3. Grenade launcher weapon + proper explosions 
+4. Spawning enemies + items
+5. Navmesh Surface Component in Unity
+6. Rain shader vs rain image sequence
+7. Raycasts with Unity
+8. File management in C#
+9. Steam cloud & file backup
+10. How VSync affects game play & code
 
 _**[Note: Devastation 1 & 2 are private repositories, available upon request.]**_\
 
