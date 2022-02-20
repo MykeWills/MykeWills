@@ -29,7 +29,7 @@ Website: https://www.michaelwills.net/
 * 4+ years designing HD video content in After Effects & Media Encoder.
 * Efficient in Element 3D Video Copilot plugin for After Effects.
 
-![video](https://video.wixstatic.com/video/0e8e62_cd3567fb7e1941e2809003c5e25757b8/1080p/mp4/file.mp4)
+![image](https://static.wixstatic.com/media/0e8e62_2025ec40691a4a0d9ef4fc8a044c7088~mv2.png)
 
 ### || What's Happening ||
 ###### Mar 2021 - Feb 2022
