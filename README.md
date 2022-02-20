@@ -1,7 +1,7 @@
 > "The more I deal with the work as something that is my own, as something that is personal,
 > the more successful it is." -- Marian Bantjes
 
-## I Am A Game Development Gemini Philanthropist[Gamer/Developer]
+## I Am A Video Game designer & Unity Developer
 # Michael Wills (aka. Enfenyx Gaming)
 A motivated Indie game development professional and an engaged developer in all aspects of game design.
 > Currently looking for work opportunity in a game development field or an opportunity teaching, motivating and learning more about games.
@@ -28,6 +28,8 @@ Website: https://www.michaelwills.net/
 * 10+ years of 2D & 3D graphic design/modeling in Photoshop.
 * 4+ years designing HD video content in After Effects & Media Encoder.
 * Efficient in Element 3D Video Copilot plugin for After Effects.
+
+![video](https://video.wixstatic.com/video/0e8e62_cd3567fb7e1941e2809003c5e25757b8/1080p/mp4/file.mp4)
 
 ### || What's Happening ||
 ###### Mar 2021 - Feb 2022
