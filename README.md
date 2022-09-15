@@ -53,25 +53,26 @@ Website: https://www.michaelwills.net/
 ### || Personal Hobbies ||
 #### **Currently working on:**
 
-1. [New Long Term Project] Total Age: (~10 months) > _Virvius Genocide_
+1. [New Long Term Project] Total Age: (~1 year 6 months months) > _Virvius_
  * https://github.com/mykewills/Virvius
+2. New Virvius Level EP1-L3 
 
 #### **Currently Learning:**
-1. Rocket launcher loading rockets
-2. Blender 3D modeling & rigging (On hold)
-3. Building a Text based RPG using only C# (On hold)
+1. Making Music for Virvius Level 3
+2. Making Virvius EP1-Level 3 Level
+3. Optimization On Lower-End PCs
+
 
 #### **Previously Learned:**
-1. Bump/occlusion/height texture mapping
-2. NaN propagation + broken textures
-3. Grenade launcher weapon + proper explosions 
-4. Spawning enemies + items
-5. Navmesh Surface Component in Unity
-6. Rain shader vs rain image sequence
-7. Raycasts with Unity
-8. File management in C#
-9. Steam cloud & file backup
-10. How VSync affects game play & code
+1. Antialiasing In Games
+2. Replicated A Custom Time based Unity's deltaTime
+3. Developed AI Airborne Navigation 
+4. Explosions using SphereCast
+5. Programming Velocity, Acceleration, Deceleration, Friction & Jump Momentum Based Movement
+6. Programming Turok 2 Based Swimming
+7. Programming Doom Eternal Based Look Movement
+8. Designing particle Explosions Based On Sprite Sheets
+9. Programmed Vivius command line system. (77 codes)
 
 _**[Note: Devastation 1 & 2 are private repositories, available upon request.]**_\
 
