@@ -1,7 +1,7 @@
 > "The more I deal with the work as something that is my own, as something that is personal,
 > the more successful it is." -- Marian Bantjes
 
-## I Am A Video Game designer & Unity Developer
+## I Am A Unity Game Developer
 # Michael Wills (aka. Enfenyx Gaming)
 A motivated Indie game development professional and an engaged developer in all aspects of game design.
 > Currently looking for work opportunity in a game development field or an opportunity teaching, motivating and learning more about games.
