@@ -32,11 +32,11 @@ Website: https://www.michaelwills.net/
 ![image](https://static.wixstatic.com/media/0e8e62_2025ec40691a4a0d9ef4fc8a044c7088~mv2.png)
 
 ### || What's Happening ||
-###### Mar 2021 - Feb 2022
-**Just Marked 500 followers on Twitter from Virvius content**
-> 10 month, 3D Game project with a possiblility of early access.
-* **Game Preview:** _https://youtu.be/ahUsfq8m0fQ?t=24_
-* Steam Page: _N/A_
+###### Mar 2021 - Sept 2022
+**Just Marked 730 followers on Twitter from Virvius content**
+> 1 Year, 6 months working on Virvius Project.
+* **Game Preview:** (https://www.youtube.com/watch?v=PMZMLd0qDr0)
+* Itch.IO Page: (https://enfenyxgaming.itch.io/virvius)
 
 ###### Oct 2019 - Feb 2020
 **Game Title Release - Devastation Annihilate the Alien Race**
