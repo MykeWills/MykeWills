@@ -1,4 +1,4 @@
-> "A jack of all trade is a master of none, but often times better than a master of one." -- Multipotentialite
+> "A jack of all trades is a master of none, but often times better than a master of one." -- Multipotentialite
 
 ## I Am A Unity Game Developer
 # Michael Wills (aka. Enfenyx Gaming)
