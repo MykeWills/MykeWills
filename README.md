@@ -3,7 +3,7 @@
 ## I Am A Unity Game Developer
 # Michael Wills (aka. Enfenyx Gaming)
 A motivated Indie game development professional and an engaged developer in all aspects of game design.
-> Currently looking for work opportunity in a game development field or an opportunity teaching, motivating and learning more about games.
+> Currently looking for work opportunity in the game development field or industry.
 
 Website: https://www.michaelwills.net/
 
@@ -32,8 +32,8 @@ Website: https://www.michaelwills.net/
 
 ### || What's Happening ||
 ###### Mar 2021 - Sept 2022
-**Just Marked 730 followers on Twitter from Virvius content**
-> 1 Year, 6 months working on Virvius Project.
+**Just Marked 771 followers on Twitter**
+> 1 Year, 8 months working on Virvius Project.
 * **Game Preview:** (https://www.youtube.com/watch?v=PMZMLd0qDr0)
 * Itch.IO Page: (https://enfenyxgaming.itch.io/virvius)
 
@@ -52,26 +52,20 @@ Website: https://www.michaelwills.net/
 ### || Personal Hobbies ||
 #### **Currently working on:**
 
-1. [New Long Term Project] Total Age: (~1 year 6 months months) > _Virvius_
+1. [New Long Term Project] Total Age: (~1 year 8 months months) > _Virvius_
  * https://github.com/mykewills/Virvius
-2. New Virvius Level EP1-L3 
+2. New Virvius Level EP1-L4 
 
 #### **Currently Learning:**
-1. Making Music for Virvius Level 3
-2. Making Virvius EP1-Level 3 Level
-3. Optimization On Lower-End PCs
+1. Making Music for Virvius Level 4
+2. Making Virvius EP1-Level 4 Level
+3. The word multipotentiality & polymath personalities
+4. More on Level Design
 
 
 #### **Previously Learned:**
-1. Antialiasing In Games
-2. Replicated A Custom Time based Unity's deltaTime
-3. Developed AI Airborne Navigation 
-4. Explosions using SphereCast
-5. Programming Velocity, Acceleration, Deceleration, Friction & Jump Momentum Based Movement
-6. Programming Turok 2 Based Swimming
-7. Programming Doom Eternal Based Look Movement
-8. Designing particle Explosions Based On Sprite Sheets
-9. Programmed Vivius command line system. (77 codes)
+1. Saving & Loading object states I had created for the player, enemies, elevators, platforms, interactive objects.
+2. How to obtimize probuilder levels objects for Occusion culling.
 
 _**[Note: Devastation 1 & 2 are private repositories, available upon request.]**_\
 
