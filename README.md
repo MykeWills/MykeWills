@@ -1,5 +1,4 @@
-> "The more I deal with the work as something that is my own, as something that is personal,
-> the more successful it is." -- Marian Bantjes
+> "A jack of all trade is a master of none, but often times better than a master of one." -- Multipotentialite
 
 ## I Am A Unity Game Developer
 # Michael Wills (aka. Enfenyx Gaming)
