@@ -66,7 +66,7 @@ Website: https://www.michaelwills.net/
 
 #### **Previously Learned:**
 1. Saving & Loading object states I had created for the player, enemies, elevators, platforms, interactive objects.
-2. How to obtimize probuilder levels objects for Occusion culling.
+2. How to optimize probuilder levels objects for Occusion culling.
 
 _**[Note: Devastation 1 & 2 are private repositories, available upon request.]**_\
 
