@@ -31,9 +31,12 @@ Website: https://www.michaelwills.net/
 ![image](https://static.wixstatic.com/media/0e8e62_2025ec40691a4a0d9ef4fc8a044c7088~mv2.png)
 
 ### || What's Happening ||
-###### Mar 2021 - Sept 2022
-**Just Marked 771 followers on Twitter**
-> 1 Year, 8 months working on Virvius Project.
+
+**785 followers on Twitter**
+
+###### Mar 2021 - Feb 2023
+**Game Title Created - Project Virvius**
+> 1 Year, 11 months working on Virvius Project.
 * **Game Preview:** (https://www.youtube.com/watch?v=PMZMLd0qDr0)
 * Itch.IO Page: (https://enfenyxgaming.itch.io/virvius)
 
@@ -52,23 +55,22 @@ Website: https://www.michaelwills.net/
 ### || Personal Hobbies ||
 #### **Currently working on:**
 
-1. [New Long Term Project] Total Age: (~1 year 8 months months) > _Virvius_
+1. [New Long Term Project] Total Age: (~1 year 11 months months) > _Virvius_
  * https://github.com/mykewills/Virvius
-2. New Virvius Level EP1-L4 
-3. Quick Coffee game in Unity (Finished).
+2. New Virvius Enemy-#6 Griever
+3. New Sounds for Griever enemy
+4. Level 5 Episode 1
 
 #### **Currently Learning:**
-1. Making Music for Virvius Level 4
-2. Making Virvius EP1-Level 4 Level
-3. The word multipotentiality & polymath personalities
-4. More on Level Design
+1. Making Music for Virvius Level 5
+2. Making Virvius EP1-Level 5 Level
+3. More on Level Design
 
 
 #### **Previously Learned:**
-1. Saving & Loading object states I had created for the player, enemies, elevators, platforms, interactive objects.
-2. How to optimize probuilder levels objects for Occusion culling.
+1. New Ambushing trigger activate griever enemies.
 
-_**[Note: Devastation 1 & 2 are private repositories, available upon request.]**_\
+_**[Note: Devastation 1, Devastation 2 & Virvius are private repositories, available upon request.]**_\
 
 ![image](https://i.imgur.com/fh8V9k1.gif)
                                                                                       
