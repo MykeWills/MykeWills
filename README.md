@@ -32,7 +32,7 @@ Website: https://www.michaelwills.net/
 
 ### || What's Happening ||
 
-**785 followers on Twitter**
+**814 followers on Twitter**
 
 ###### Mar 2021 - Feb 2023
 **Game Title Created - Project Virvius**
