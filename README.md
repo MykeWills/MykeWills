@@ -18,14 +18,14 @@ Website: https://www.michaelwills.net/
 * Game saving, loading & transitions. 
 ### || Relevant Experience ||
 * GitHub & source control
-* 5 Years experience working in Unity.
-* 5 Years programming in C# programming language.
+* 7 Years experience working in Unity.
+* 7 Years programming in C# programming language.
 * Understanding of object orientated programming.
 * Understanding of game optimization, garbage collection & object pooling.
 * Construction of game management & game systematic classes/structs.
 * Released at least 2 solo titles via Steam, Itch.io & GameJolt.
 * 10+ years of 2D & 3D graphic design/modeling in Photoshop.
-* 4+ years designing HD video content in After Effects & Media Encoder.
+* 6+ years designing HD video content in After Effects & Media Encoder.
 * Efficient in Element 3D Video Copilot plugin for After Effects.
 
 ![image](https://static.wixstatic.com/media/0e8e62_2025ec40691a4a0d9ef4fc8a044c7088~mv2.png)
