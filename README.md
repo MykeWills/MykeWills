@@ -17,7 +17,7 @@ Website: https://www.michaelwills.net/
 * Game management, networking & marketing. 
 * Game saving, loading & transitions. 
 ### || Relevant Experience ||
-* GitHub + GitDesktop & Git Kraken
+* GitHub & source control
 * 7 Years experience working in Unity.
 * 7 Years programming in C# programming language.
 * Understanding of object orientated programming.
@@ -32,11 +32,11 @@ Website: https://www.michaelwills.net/
 
 ### || What's Happening ||
 
-**810 followers on Twitter**
+**814 followers on Twitter**
 
-###### Mar 2021 - Apr 2023
+###### Mar 2021 - Feb 2023
 **Game Title Created - Project Virvius**
-> 1 Year, 11 months working on Virvius Project.
+> 2 Year, 1 month(s) working on Virvius Project.
 * **Game Preview:** (https://www.youtube.com/watch?v=PMZMLd0qDr0)
 * Itch.IO Page: (https://enfenyxgaming.itch.io/virvius)
 
@@ -62,13 +62,13 @@ Website: https://www.michaelwills.net/
 4. Level 5 Episode 1
 
 #### **Currently Learning:**
-1. Optimizing Level Design
-2. Working Remotely @ MaxInferno
-3. Hack n' Plan Project Management
+1. Making Music for Virvius Level 5
+2. Making Virvius EP1-Level 5 Level
+3. More on Level Design
 
 
 #### **Previously Learned:**
-1. Inheritance & access modifiers.
+1. New Ambushing trigger activate griever enemies.
 
 _**[Note: Devastation 1, Devastation 2 & Virvius are private repositories, available upon request.]**_\
 
