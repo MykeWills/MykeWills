@@ -57,18 +57,15 @@ Website: https://www.michaelwills.net/
 
 1. [New Long Term Project] Total Age: (~1 year 11 months months) > _Virvius_
  * https://github.com/mykewills/Virvius
-2. New Virvius Enemy-#6 Griever
-3. New Sounds for Griever enemy
-4. Level 5 Episode 1
+2. Max Inferno: _A little to the Left_
 
 #### **Currently Learning:**
-1. Making Music for Virvius Level 5
-2. Making Virvius EP1-Level 5 Level
-3. More on Level Design
+1. PreProcessor Directives
 
 
 #### **Previously Learned:**
-1. New Ambushing trigger activate griever enemies.
+1. Inheritance
+2. Access Modifiers
 
 _**[Note: Devastation 1, Devastation 2 & Virvius are private repositories, available upon request.]**_\
 
