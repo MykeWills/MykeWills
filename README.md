@@ -48,11 +48,15 @@ Website: https://www.enfenyx.net/
 * Steam Page: _https://store.steampowered.com/app/1227040/Devastation__Annihilate_the_Alien_Race/_
 * **Game Trailer:** _https://www.youtube.com/watch?v=Zecvy9tiyiI&t=3s_
 
+![image](https://static.wixstatic.com/media/0e8e62_2dbd25cc29204ad086adf280478984fc~mv2.jpg)
+
 ###### Feb 2020 - Jan 2021
 **Game Title Release - Devastation 2 - Repatriation**
 > 11 month, 3D Game project released on Steam for PC.
 * Steam Page: _https://store.steampowered.com/app/1464090/Devastation_2__Repatriation/_
 * **Game Trailer:** _https://www.youtube.com/watch?v=GTfv9ku5wqQ_
+
+![image](https://static.wixstatic.com/media/0e8e62_2ec5aed303eb46d59fca95b39827ea8d~mv2.jpg)
 
 ### || Personal Hobbies ||
 #### **Currently working on:**
