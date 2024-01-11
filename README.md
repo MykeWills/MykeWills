@@ -30,7 +30,8 @@ Website: https://www.enfenyx.net/
 
 ### || What's Happening ||
 
-**842 followers on Twitter**
+**846 followers on X**
+_https://twitter.com/Enfenyx_
 
 ###### Mar 2021 - Dec 2023
 **Game Title Early Access - Project Virvius**
