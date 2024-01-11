@@ -28,7 +28,7 @@ Website: https://www.enfenyx.net/
 * 6+ years designing HD video content in After Effects & Media Encoder.
 * Efficient in Element 3D Video Copilot plugin for After Effects.
 
-![image](https://static.wixstatic.com/media/0e8e62_8209931ec58640648790fd88242225ee~mv2.png)
+
 
 ### || What's Happening ||
 
