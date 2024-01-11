@@ -28,8 +28,6 @@ Website: https://www.enfenyx.net/
 * 6+ years designing HD video content in After Effects & Media Encoder.
 * Efficient in Element 3D Video Copilot plugin for After Effects.
 
-![image](https://static.wixstatic.com/media/0e8e62_8df4b05791e74e4fb6818d41d9cb8797~mv2.jpg)
-
 ### || What's Happening ||
 
 **842 followers on Twitter**
@@ -41,6 +39,8 @@ Website: https://www.enfenyx.net/
 * **Game Trailer:** _https://www.youtube.com/watch?v=7k6ARSo3qEE_
 * Website: (https://enfenyx.net/virviusgame)
 * Itch.IO Page: (https://enfenyxgaming.itch.io/virvius)
+
+![image](https://static.wixstatic.com/media/0e8e62_8df4b05791e74e4fb6818d41d9cb8797~mv2.jpg)
 
 ###### Oct 2019 - Feb 2020
 **Game Title Release - Devastation Annihilate the Alien Race**
