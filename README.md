@@ -38,8 +38,8 @@ _https://twitter.com/Enfenyx_
 > 3 Years, 11 Days working on Virvius Project.
 * Steam Page: _https://store.steampowered.com/app/2335370/Virvius/_
 * **Game Trailer:** _https://www.youtube.com/watch?v=qisBpRtXSsk_
-* Website: (https://enfenyx.net)
-* Itch.IO Page: (https://enfenyxgaming.itch.io/virvius)
+* Itch.IO Page: _https://enfenyxgaming.itch.io/virvius_
+* GameJolt Page: _https://gamejolt.com/games/Virvius/623909_
 
 ![image](https://static.wixstatic.com/media/0e8e62_8df4b05791e74e4fb6818d41d9cb8797~mv2.jpg)
 
