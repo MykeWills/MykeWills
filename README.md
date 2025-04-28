@@ -30,12 +30,12 @@ Website: https://www.enfenyx.net/
 
 ### || What's Happening ||
 
-**854 followers on X**
+**828 followers on X**
 _https://twitter.com/Enfenyx_
 
-###### Mar 2021 - MArch 2023
+###### Mar 2021 - March 2025
 **Game Title Early Access - Project Virvius**
-> 3 Years, 11 Days working on Virvius Project.
+> 4 Years, 2 Months working on Virvius Project.
 * Steam Page: _https://store.steampowered.com/app/2335370/Virvius/_
 * **Game Trailer:** _https://www.youtube.com/watch?v=qisBpRtXSsk_
 * Itch.IO Page: _https://enfenyxgaming.itch.io/virvius_
@@ -62,17 +62,13 @@ _https://twitter.com/Enfenyx_
 ### || Personal Hobbies ||
 #### **Currently working on:**
 
-1. [New Long Term Project] Total Age: (2 year 9 months months) > _Virvius_
+1. [New Long Term Project] Total Age: (4 year 2 months) > _Virvius_
  * https://github.com/mykewills/Virvius
 
 #### **Currently Learning:**
-N/A
+Vertices Optimization and Texture 
 
 #### **Previously Learned:**
-
-1. Inheritance
-2. Access Modifiers
-3. PreProcessor Directives
 
 _**[Note: Devastation 1, Devastation 2 & Virvius are private repositories, available upon request.]**_\
 
